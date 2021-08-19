@@ -1,5 +1,6 @@
 # Dokumentácia
-V tohto projektu som vytvoril Android aplikáciu v prostredí Android Studio a v jazyku Kotlin. Ako back-end slúži Spring framework bežiaci na localhoste napísaný v jazyku Java v prostredí IntelliJ IDEA. 
+Frontend for mobile app called Todo created in Android Studio in programming language Kotlin.
+Vrámci tohto projektu som vytvoril Android aplikáciu v prostredí Android Studio a v jazyku Kotlin. Ako back-end slúži Spring framework bežiaci na localhoste napísaný v jazyku Java v prostredí IntelliJ IDEA. 
 ## Účel aplikácie
 Účelom aplikácie s názvom Notes je, ako z názvu vyplýva, vytváranie poznámok. Užívateľ má možnosť zaregistrovať sa a následne prihlásiť, pričom na domovskej stránke si môže prezerať a upravovať svoje poznámky, prípadne vytvoriť novú stlačením príslušného tlačidla a filtrovať medzi nimi v rámci filtra Favourite Notes. 
 
